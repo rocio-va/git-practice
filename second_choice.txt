@@ -3,3 +3,4 @@ Which door will you go through?
 Door 2
 No, door 1
 What is behind the door?
+There is a ghost
